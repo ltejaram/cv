@@ -1,0 +1,25 @@
+body{
+    background-color:rgba(122, 241, 122, 0.151);
+}
+hr{
+    border-style: dotted;
+    border-top-width: 2px;
+    width: 10%;
+    border-style: dotted none none;
+}
+h1{
+color: #66bfbf;
+
+}
+h3
+{
+    color: #66bfbf;
+}
+img
+{
+    border-radius: 40%;
+}
+.emoji
+{
+    background-color: green;
+}
